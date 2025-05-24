@@ -6,3 +6,4 @@
 
 Home page
 
+[[Campaign/Deities/Ash'm (Deity)\|Ash'm (Deity)]]
